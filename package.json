@@ -1,0 +1,19 @@
+{
+  "name": "store-api",
+  "version": "1.0.0",
+  "description": "practice of searching, sorting and filtering",
+  "main": "index.js",
+  "author": "Tarun Kumar",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
